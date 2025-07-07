@@ -1,4 +1,4 @@
-<img src="![Background](https://github.com/user-attachments/assets/5acb4d32-f960-48ac-9586-0d5eceded641)" width="100%"/>
+<img src="![Background](C:\Users\DC\OneDrive\Desktop\Background.jpg)" width="100%"/>
 
 
 # Hi , I'am Manasvi ✨ <br>
